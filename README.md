@@ -1,5 +1,7 @@
 # Probable Umbrella
 
+![Build Status](https://circleci.com/gh/22a/probable-umbrella.png)
+
 Anti flat-earth indoctrination.
 
 ### Dependencies:
