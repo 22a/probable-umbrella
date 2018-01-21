@@ -1,6 +1,6 @@
 # Probable Umbrella
 
-![Build Status](https://circleci.com/gh/22a/probable-umbrella.png)
+[![Build Status](https://circleci.com/gh/22a/probable-umbrella.png)](https://circleci.com/gh/22a/probable-umbrella)
 
 Anti flat-earth indoctrination.
 
